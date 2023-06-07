@@ -1,4 +1,4 @@
-package com.peterjxl.learnquartz.demo6;
+package com.peterjxl.learnquartz.demo7;
 
 import org.junit.jupiter.api.Test;
 import org.quartz.*;

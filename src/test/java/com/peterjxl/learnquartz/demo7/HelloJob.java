@@ -1,4 +1,4 @@
-package com.peterjxl.learnquartz.demo6;
+package com.peterjxl.learnquartz.demo7;
 
 import com.peterjxl.learnquartz.service.HelloSpringService;
 import com.peterjxl.learnquartz.utils.DateFormatUtil;
